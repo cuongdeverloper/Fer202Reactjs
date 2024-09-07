@@ -1,8 +1,8 @@
-const Cac = () =>{
+const hi = () =>{
     return(
         <div>
             asd
         </div>
     )
 }
-export default Cac
+export default hi
